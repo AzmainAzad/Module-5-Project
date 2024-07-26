@@ -140,3 +140,52 @@
     border-radius: 8px;
     margin-bottom: 20px;
 }
+
+
+
+/* Css of Last Section */
+#last-section{
+    display: flex;
+    align-items: center;
+    max-width: 1540px;
+
+}
+
+
+.l-s-img{
+    width: 800px;
+    margin-right: 70px;
+}
+
+.l-s-img img{
+   background-size: cover;
+   width: 800px;
+   
+}
+
+.l-s-text{
+    text-align: center;
+}
+
+.l-s-h1{
+    font-size: 36px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.l-s-p{
+    font-size: 20px;
+    color: #101010;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+
+.l-s-h4{
+    font-size: 26px;
+    color: #101010;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
