@@ -7,6 +7,7 @@
 }
 
 
+
 /* Css of Banner section */
 #hero{
     max-width: 1540px;
@@ -61,3 +62,81 @@
 
 }
 
+
+
+/* Css of Brand Food section */
+#brand-food{
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 140px 0;
+    text-align: center;
+}
+
+.b-fh3{
+    font-size: 20px;
+    color: #101010;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.b-fh1{
+    font-size: 42px;
+    color: black;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.item{
+    display: flex;
+    gap: 10px;
+}
+
+.items img{
+    margin-bottom: 32px;
+}
+
+.items-btn{
+    background-color: #52C303;
+    font-size: 18px;
+    color: black;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    padding: 10px 26px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.items-h4{
+    font-size: 35px;
+    color: black;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.items-p{
+    font-size: 18px;
+    color: black;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.b-fbtn-container{
+    text-align: center;
+}
+
+.b-fbtn{
+    background-color: #52C303;
+    font-size: 16px;
+    color: white;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    padding: 18px 26px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
